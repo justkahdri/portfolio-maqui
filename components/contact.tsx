@@ -63,7 +63,8 @@ export default function Contact() {
         {/* SEPARADOR */}
         <div className="mt-16 pt-12 border-t border-cyan-400/30">
           <p className="text-gray-400 text-center text-sm font-mono">
-            También podés conectar conmigo acá ↓
+            También podés conectar conmigo acá <br />
+            ↓
           </p>
 
           {/* LINKS */}

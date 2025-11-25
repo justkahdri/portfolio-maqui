@@ -87,7 +87,8 @@ export default function WorkMethodItemCard() {
       </h2>
 
       <p className="text-center text-white text-base mb-4 max-w-3xl mx-auto">
-        Un proceso end-to-end donde la investigación, el diseño y la
+        Investigación — Estrategia — Diseño end-to-end <br />
+        Un proceso donde la investigación, el diseño y la
         colaboración se fusionan para crear experiencias que impactan
       </p>
 

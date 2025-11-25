@@ -69,9 +69,7 @@ export default function Hero({ scrollY }: HeroProps) {
 
         <p className="text-xl md:text-2xl text-cyan-200/80 mb-10 font-light">
         Diseño experiencias digitales que resuelven problemas reales.
-        UX/UI Designer | Product Designer <br />
-      
-        Investigación — Estrategia — Diseño end-to-end
+        UX/UI Designer | Product Designer 
         </p>
 
         <div className="flex gap-6 justify-center flex-wrap">
